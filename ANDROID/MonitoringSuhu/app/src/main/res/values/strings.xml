@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Monitoring Suhu</string>
+    <string name="sensor1">...</string>
+    <string name="sensor2">...</string>
+    <string name="sensor3">...</string>
+    <string name="SENSOR1">SENSOR 1</string>
+    <string name="SENSOR2">SENSOR 2</string>
+    <string name="SENSOR3">SENSOR 3</string>
+    <string name="SENSOR4">SENSOR 4</string>
+    <string name="sensor_1">...</string>
+    <string name="monitoring">MONITORING</string>
+    <string name="suhu">SUHU</string>
+    <string name="todo1">TODO1</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo3">TODO3</string>
+    <string name="todo4">TODO4</string>
+    <string name="todo5">TODO</string>
+    <string name="sensor4">...</string>
+</resources>

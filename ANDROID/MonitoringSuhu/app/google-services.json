@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121894328894",
+    "firebase_url": "https://zigbee-10.firebaseio.com",
+    "project_id": "zigbee-10",
+    "storage_bucket": "zigbee-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121894328894:android:78f492df0cee47e7edcf6f",
+        "android_client_info": {
+          "package_name": "com.example.monitoringsuhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121894328894-a88erdunv98ravuimetcf87ufv286tje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monitoringsuhu",
+            "certificate_hash": "0956435bd09e28096577cef6e069fafbe902d8ad"
+          }
+        },
+        {
+          "client_id": "121894328894-u1vcpo2kg8k9djal74o5rao2btbldv3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqpY1eAa_5fP4OtW7cCrfIO47ek6AfXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121894328894-u1vcpo2kg8k9djal74o5rao2btbldv3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
